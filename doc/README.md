@@ -1,0 +1,3 @@
+# Documentation 
+
+GoRAC was developed as part of a Master's thesis on "Assertion-based Testing of Go Programs" in the [Programming Methodology Group](https://www.pm.inf.ethz.ch/) at [ETH Zurich](https://ethz.ch/de.html). The given documentation is an extract of this thesis. It describes the specification language of GoRAC and thus serves as documentation on how to annotate Go programs. The complete thesis can be found [here](https://ethz.ch/content/dam/ethz/special-interest/infk/chair-program-method/pm/documents/Education/Theses/Eva_Charlotte_Mayer_MA_report.pdf). 
