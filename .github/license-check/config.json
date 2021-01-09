@@ -1,0 +1,26 @@
+[
+  {
+    "include": [
+      "**/*.go"
+    ],
+    "exclude": [
+      "pkg/specparser/specgrammar_base_listener.go",
+      "pkg/specparser/specgrammar_base_visitor.go",
+      "pkg/specparser/specgrammar_lexer.go",
+      "pkg/specparser/specgrammar_listener.go",
+      "pkg/specparser/specgrammar_parser.go",
+      "pkg/specparser/specgrammar_visitor.go"
+    ],
+    "license": "./.github/license-check/header_MPLv2_ETH.txt"
+  },
+  {
+    "include": [
+      "doc/*",
+      "go.mod",
+      "go.sum",
+      "pkg/specparser/*",
+      "README.md",
+      "LICENSE"
+    ]
+  }
+]
